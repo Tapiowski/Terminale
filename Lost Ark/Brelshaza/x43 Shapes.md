@@ -1,0 +1,22 @@
+- ## Shapes
+	- ### Starting boss glow, medusa
+		- red
+			- p1 kills 3x Blue, p2 3x Yellow stars
+		- blue
+			-  p1 x3 Red, p2 x3 Yellow
+		- yellow
+			- p1 x3 Blue, p2 x3 Red
+	- ### Squares
+		- p3 123 east
+		- p4 456 west
+		- p5 789 north
+	- ### Diamonds
+		- p6 129 south
+		- p7 345 west
+		- p8 678 east
+- ## Mech
+	- ### Star Players
+		- Star + Square
+			- square and star+square together
+		- Star + Diamond
+			- diamond away from star+diamond

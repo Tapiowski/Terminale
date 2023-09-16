@@ -1,0 +1,4 @@
+- ## Mech
+	- stagger boss
+	- cat's eye = look away
+	- round eye = look inside

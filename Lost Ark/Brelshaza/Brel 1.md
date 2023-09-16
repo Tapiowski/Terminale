@@ -1,0 +1,17 @@
+- ## Combat Items
+	- ### Party 1
+		- [[HP Potion]]
+		- [[Panacea]]
+		- [[Whirlwind Grenade]]
+		- [[Destruction Bomb]]
+	- ### Party 2
+		- [[HP Potion]]
+		- [[Panacea]]
+		- [[Whirlwind Grenade]], [[Frost Grenade]], [[Flash Grenade]]
+		- [[Sleep Bomb]]
+- ## Phases
+	- ### [[Statues and Dogs]]
+	- ### [[Hammer & Bow Split]]
+	- ### [[Hammer & Bow Merge]]
+	- ### [[x85 Safe Zones]]
+	- ### [[x45 6 Counter Attacks]]

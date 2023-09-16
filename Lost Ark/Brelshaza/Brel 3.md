@@ -1,0 +1,10 @@
+- ## Combat Items
+	- [[HP Potion]]
+	- [[Whirlwind Grenade]]
+	- [[Dark Grenade]]
+	- [[Time Stop Potion]]
+- ## Phases
+	- ### [[x145 Meteors, Typing, Stagger]]
+	- ### [[x100 Medusa, Stagger]]
+	- ### [[x43 Shapes]]
+	- ### [[x0 Red Blue marks]]

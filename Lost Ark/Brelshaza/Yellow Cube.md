@@ -1,0 +1,21 @@
+- ## Mech
+	- ### Party 1
+		- blue side
+	- ### Party 2
+		- green side
+	- orb spawns at blue and green side
+	- destroyer kill orb, block projectiles
+	- catcher catch orb near boss, block projectiles
+	- stagger step inside yellow dome, stagger boss
+- ## Patterns
+	- start = four towers in cardinal directions, avoid projectiles
+	- ### wall
+		- permanent
+		- passable with space bar
+	- ### towers, meteors
+		- towers in the center, meteors
+		- avoid dashing trough wall: +projectiles
+	- ### half blue
+		- half arena flashes blue
+		- dash to other side
+		- break free

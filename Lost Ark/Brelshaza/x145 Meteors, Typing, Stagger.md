@@ -1,0 +1,8 @@
+- ## Party 1
+	- ### x3
+- ## Party 2
+	- ### x3+1
+- ## Mech
+	- meteor spawn
+	- step on them, typing test
+	- stagger boss

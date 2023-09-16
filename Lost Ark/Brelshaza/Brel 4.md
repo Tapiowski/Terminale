@@ -1,0 +1,47 @@
+- ## Combat Items
+	- [[HP Potion]]
+	- [[Whirlwind Grenade]]
+	- [[Dark Grenade]]
+	- [[Time Stop Potion]]
+- ## Raid Assignments
+	- ### party 1
+		- blue for yellow mech
+		- blue+purple for blue mech
+	- ### party 2 
+		- green for yellow
+		- green+white for blue mech
+	- ### yellow cube mech
+		- orb destroyer = low stagger dps
+		- orb catcher = support
+		- 2 stagger
+- ## Phases
+	- ### Main
+		- ### [[x170 rby]]
+		- ### [[x120 rby]]
+		- ### [[x95 stagger]]
+		- ### [[x60 rby]]
+		- ### [[x20 stagger]]
+	- ### Transitions
+		- ### x165
+		- ### x135
+		- ### x95 after stagger
+		- ### x65
+		- ### x40
+		- ### x20 after stagger
+- ## Mechs rby
+	- ### [[Red Cube]]
+	- ### [[Blue Cube]]
+	- ### [[Yellow Cube]]
+- ## Patterns
+	- ### Knockback
+		- arena in yellow
+		- use push immunity or paralysis immunity once it is close
+	- ### Retailate
+		- red circles, stop dps, avoid
+	- ### Rotating Beam
+		- wall counter clockwise
+		- avoid, space bar or payalysis immunity trough them
+		- circles explode
+	- ### Red memory
+		- 3 red lines, pizza
+		- gap in the pizza pattern, dodge red lines

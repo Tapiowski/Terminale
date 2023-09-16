@@ -1,0 +1,7 @@
+- ## Party 1
+	- x3
+- ## Party 2
+	- x3+1
+- ## Mech
+	- stand on red and blue areas
+	- consume 6 marks around the map

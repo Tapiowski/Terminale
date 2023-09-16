@@ -1,0 +1,23 @@
+- ## Mech
+	- ### Party 1
+		- 1,2 Blue side
+		- 3,4 Purple side
+	- ### Party 2
+		- 1,2 White side
+		- 3,4 Green side
+	- stagger cube, typing test, breakout teammate
+	- stay on corner until lasers have been fired
+	- group up after having shield after stagger
+- ## Patterns
+	- start = cube shaped explosions, edge of the arena facing flat sides safe
+	- ### fire
+		- red beam from players, surrounded by star
+		- stack up, place outside
+		- dodge
+	- ### towers, meteors
+		- 8 towers around the boss, meteors
+		- avoid projectails
+		- meteors in telegraph + small ones
+	- ### imprison
+		- 8 protective orbs, arena in blue, followup spots showed
+		- take orb, don't stand near players without shield, dodge followup

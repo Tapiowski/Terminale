@@ -1,0 +1,7 @@
+- ## [[x20 stagger]]
+- golden lasers shoot out of the cube, changes to white
+- stagger
+- sidereal
+	- innana cleanse damage stacks, prevents knock back
+	- wei stagger
+- stagger = resolve

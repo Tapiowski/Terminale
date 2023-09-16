@@ -1,0 +1,23 @@
+- ## Mech
+	- low stagger enters dome
+	- all players stagger boss
+	- collect object after stagger, enter dome
+		- 1, 2, 2
+		- 6 players inside dome = resolved
+		- players outside not in front of laser
+- ## Patterns
+	- start = lasers from flat sides, stay at edges
+	- ### blue memory
+		- remember 3 safe zones
+		- go to them in correct order, move after laser moves
+		- break free
+	- ### brands
+		- yellow lines from cube
+		- spread out
+		- once they disappear, orb towards boss
+		- pickup only 1 orb
+	- ### laser metors
+		- towers on outer edge
+		- lasers on players, once they lock on dodge patterns
+		- dodge meteors
+		- projectiles on laser paths

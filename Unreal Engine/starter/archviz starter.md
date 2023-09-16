@@ -1,0 +1,96 @@
+- r.lumen.visualize.cardplacement 1
+	- visualize lightpoints
+	- lit > lumen > surface cache
+		- pink bad
+	- isolated walls
+- [[shadowbox]]: single plane mesh
+	- cube -windows
+- start project, archi, blank
+- folder level
+	- new level
+	- double click
+	- meshes folders
+	- import
+		- no generate collisions
+		- no generate lightmap
+		- do not create material, no import texture
+		- drag n drop
+		- reset location
+	- unlit mode alt 3
+	- import [[BP_lightstudio]] (self)
+		- add, content, starter content
+		- drag n drop
+		- use [[hdri]] true
+		- uncheck sun atmo fog
+	- [[hdri]]
+		- drag n drop
+		- scene 1, skylight component
+		- source type cubemap, same hdri
+		- resolution 2048
+- [[postprocess volume]]
+	- infinite
+	- lens flare off
+	- bloom convolution
+	- exposure manual 13.5
+	- chr aberration 0.05
+	- vignette 0.5
+	- color grading
+		- temperature white balance 5600
+	- global illumination
+		- method lumen
+		- lighiting quality 2
+		- scene detail 4
+		- final gather quality 2
+	- reflections
+		- methos lumen
+		- quality 2
+		- ray lighting hit lighting for ref
+		- high quality 2
+- [[project settings]]
+	- engine - rendering
+	- search lumen
+	- dynamic global illumination
+	- reflection method
+	- use hardware raytracing
+	- fay lighting surface cache
+	- high quality translucency reflections
+	- software ray tracing mode detail tracing
+- use textures
+	- folder
+	- import maps maps
+	- apply
+	- tweak
+- [[light]]
+	- emissive material
+		- multiply, m click
+			- 3 click color
+			- 1 click, switch to parameter
+		- link to emissive
+		- right click, instance
+		- change str parameter
+	- [[rectangle light]]
+		- use temp 2800
+		- 0.2 cd intensity
+		- attenuation 500
+		- indirect lighting intensity 5
+		- rotate down, over light
+- [[movie render queue]]
+	- add [[cinematic camera]] actor
+		- perspective, select
+		- sensor width 12
+		- sensor height 23
+		- focal lenght 30 mm
+		- manual focus
+	- [[BP_lightstudio]] [[skylight]] intensity 2
+	- [[exposure]]
+	- add [[level sequence]]
+	- click movie render queue, + config
+		- png, no color correction
+		- antialiasing temporl 32, override anti a
+		- console variables
+		- r.tonemapper sharpen 3
+		- r.tonemapper quality 5
+		- r.screenpercentage 200
+		- output
+			- resolution, high resolution tab in export list
+			- frames custom playback range 3 4
