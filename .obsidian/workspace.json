@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "726b5adcde35a23c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "~/Documents/Obsidian/Terminal/Terminal/Lost Ark/Raids.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "~/Documents/Obsidian/Terminal/Terminal/Lost Ark/Raids.md",
+                "file": "Unreal Engine/Blueprint/change material.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "~/Documents/Obsidian/Terminal/Terminal/Lost Ark/Raids.md",
+                "file": "Unreal Engine/Blueprint/change material.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "~/Documents/Obsidian/Terminal/Terminal/Lost Ark/Raids.md"
+                "file": "Unreal Engine/Blueprint/change material.md"
               }
             }
           }
@@ -159,7 +146,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "726b5adcde35a23c",
+  "active": "1e449b93fc7bac36",
   "lastOpenFiles": [
     "Unreal Engine/Blueprint/change material.md",
     "~/Documents/Obsidian/Terminal/medicina/templates/patologia sistematica.md",
