@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unreal Engine/Blueprint/change material.md",
+                "file": "Lost Ark/Raids.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4c4fed09853c3dc2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "prova.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unreal Engine/Blueprint/change material.md",
+                "file": "prova.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unreal Engine/Blueprint/change material.md",
+                "file": "prova.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unreal Engine/Blueprint/change material.md"
+                "file": "prova.md"
               }
             }
           }
@@ -146,8 +159,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1e449b93fc7bac36",
+  "active": "4c4fed09853c3dc2",
   "lastOpenFiles": [
+    "Lost Ark/Raids.md",
+    "prova.md",
     "Unreal Engine/Blueprint/change material.md",
     "~/Documents/Obsidian/Terminal/medicina/templates/patologia sistematica.md",
     "~/Documents/Obsidian/Terminal/medicina/templates/lista 3.md",
@@ -174,8 +189,6 @@
     "~/Documents/Obsidian/Terminal/medicina/semeiotica/parestesia.md",
     "~/Documents/Obsidian/Terminal/medicina/semeiotica/misurare pressione.md",
     "~/Documents/Obsidian/Terminal/medicina/semeiotica/melena.md",
-    "~/Documents/Obsidian/Terminal/medicina/semeiotica/indice caviglia-braccio.md",
-    "~/Documents/Obsidian/Terminal/medicina/semeiotica/franca ipotensione.md",
     "~/Documents/Obsidian/Terminal/medicina/semeiotica",
     "~/Documents/Obsidian/Terminal/medicina/patologia/0",
     "~/Documents/Obsidian/Terminal/medicina/patologia",
