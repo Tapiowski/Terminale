@@ -11,12 +11,8 @@
             "id": "be7f4fb9dce97a39",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hard Disk/LVM.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hard Disk/LVM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hard Disk/LVM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Hard Disk/LVM.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,10 +140,17 @@
   },
   "active": "be7f4fb9dce97a39",
   "lastOpenFiles": [
-    "Hard Disk/RAIDS.md",
-    "Hard Disk/LVM.md",
+    "Data/recover data.md",
     "AI/Setup.md",
-    "Hard Disk",
+    "Aim/distro.md",
+    "Aim",
+    "AI/orange.md",
+    "AI/openai.md",
+    "Data/RAIDS.md",
+    "Data/LVM.md",
+    "netsec/ports.md",
+    "netsec",
+    "Data",
     "Lost Ark/Raids.md",
     "AI",
     "prova.md",
@@ -173,17 +172,10 @@
     "~/Documents/Obsidian/Terminal/medicina/semeiotica/sintomi vertebro-basilari.md",
     "~/Documents/Obsidian/Terminal/medicina/semeiotica/sintomi carotidei.md",
     "~/Documents/Obsidian/Terminal/medicina/semeiotica/risonanza magnetica.md",
-    "~/Documents/Obsidian/Terminal/medicina/semeiotica/polso tibiale ant-pedideo.md",
-    "~/Documents/Obsidian/Terminal/medicina/semeiotica/polso succlavio.md",
-    "~/Documents/Obsidian/Terminal/medicina/semeiotica/polso femorale.md",
-    "~/Documents/Obsidian/Terminal/medicina/semeiotica/polso carotideo.md",
-    "~/Documents/Obsidian/Terminal/medicina/semeiotica/polsi arteriosi.md",
     "~/Documents/Obsidian/Terminal/medicina/semeiotica",
     "~/Documents/Obsidian/Terminal/medicina/patologia/0",
     "~/Documents/Obsidian/Terminal/medicina/patologia",
     "~/Documents/Obsidian/Terminal/medicina/patologia sistematica I/pneumologia",
-    "~/Documents/Obsidian/Terminal/medicina/patologia sistematica I/cardiologia",
-    "~/Documents/Obsidian/Terminal/medicina/patologia sistematica I",
     "~/Documents/Obsidian/Terminal/medicina/100 files/Pasted image 20230207104650.png",
     "~/Documents/Obsidian/Terminal/medicina/100 files/Pasted image 20230207104525.png",
     "~/Documents/Obsidian/Terminal/medicina/100 files/Pasted image 20221021110844.png"
