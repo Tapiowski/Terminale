@@ -1,0 +1,49 @@
+body {
+	--radius-s: 0px;
+	--radius-m: 0px;
+	--radius-l: 0px;
+	--input-radius: 0px;
+	--tab-radius-active: 0px;
+	--checkbox-radius: 0px;
+	--toggle-radius: 0px;
+	--toggle-thumb-radius: 0px;
+	--slider-thumb-radius: 0px;
+	--font-text-theme: "JetBrainsMono Nerd Font";
+	--text-normal: #59A8D9;
+	--text-faint: #193B59;
+	--text-muted: #2E6EA6;
+	--text-highlight-bg: #193B59;
+	--tab-background-active: #0D0D0D;
+	--tab-container-background: #0D0D0D;
+	--tab-outline-color: #0D0D0D;
+	--titlebar-background-focused: #0D0D0D;
+}
+
+.workspace-tab-header.is-active::before, .workspace-tab-header.is-active::after {
+	display: none;
+}
+
+svg * {
+	stroke-linecap: square;
+	stroke-linejoin: miter;
+	rx: 0;
+	ry: 0;
+}
+
+.menu {
+	padding: var(--size-2-1);
+}
+
+.menu-item {
+	padding: var(--size-4-1) var(--size-4-2);
+}
+bs
+
+.menu-separator {
+	margin: var(--size-2-1) calc(var(--size-2-1) * -1);
+}
+
+.theme-dark {
+  --background-primary: #0D0D0D;
+  --background-secondary: #0D0D0D;
+}
