@@ -8,27 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "be7f4fb9dce97a39",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "470aa81b644f23b9",
+            "id": "d1484f30ed9a9ad4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data/github.md",
+                "file": "Arch/Software.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d6b59c11c830160b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data/Obsidian.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "090a83ce6bbd94d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Arch/alias.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data/github.md",
+                "file": "Arch/alias.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data/github.md",
+                "file": "Arch/alias.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data/github.md"
+                "file": "Arch/alias.md"
               }
             }
           }
@@ -155,21 +171,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "470aa81b644f23b9",
+  "active": "090a83ce6bbd94d3",
   "lastOpenFiles": [
+    "Data/Obsidian.md",
+    "Arch/alias.md",
     "Data/github.md",
+    "Data/Data.md",
+    "Arch/Software.md",
+    "Data/LVM.md",
+    "Data/RAIDS.md",
     "Data/recover data.md",
+    "Lost Ark/Raids.md",
+    "Arch",
     "AI/Setup.md",
     "Aim/distro.md",
     "Aim",
     "AI/orange.md",
     "AI/openai.md",
-    "Data/RAIDS.md",
-    "Data/LVM.md",
     "netsec/ports.md",
     "netsec",
     "Data",
-    "Lost Ark/Raids.md",
     "AI",
     "prova.md",
     "Unreal Engine/Blueprint/change material.md",
@@ -185,14 +206,9 @@
     "~/Documents/Obsidian/Terminal/medicina/semeiotica/soffio succlavio.md",
     "~/Documents/Obsidian/Terminal/medicina/semeiotica/soffio carotideo.md",
     "~/Documents/Obsidian/Terminal/medicina/semeiotica/soffi sistolici.md",
-    "~/Documents/Obsidian/Terminal/medicina/semeiotica/soffi diastolici.md",
-    "~/Documents/Obsidian/Terminal/medicina/semeiotica/soffi continui.md",
-    "~/Documents/Obsidian/Terminal/medicina/semeiotica/sintomi vertebro-basilari.md",
-    "~/Documents/Obsidian/Terminal/medicina/semeiotica/sintomi carotidei.md",
     "~/Documents/Obsidian/Terminal/medicina/semeiotica",
     "~/Documents/Obsidian/Terminal/medicina/patologia/0",
     "~/Documents/Obsidian/Terminal/medicina/patologia",
-    "~/Documents/Obsidian/Terminal/medicina/patologia sistematica I/pneumologia",
     "~/Documents/Obsidian/Terminal/medicina/100 files/Pasted image 20230207104650.png",
     "~/Documents/Obsidian/Terminal/medicina/100 files/Pasted image 20230207104525.png",
     "~/Documents/Obsidian/Terminal/medicina/100 files/Pasted image 20221021110844.png"
