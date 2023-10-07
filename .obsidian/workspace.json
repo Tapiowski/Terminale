@@ -8,43 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d1484f30ed9a9ad4",
+            "id": "fdae7d27ced85207",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arch/Software.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d6b59c11c830160b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data/Obsidian.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "090a83ce6bbd94d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Arch/Software.md",
+                "file": "netsec/HackTheBox.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Arch/Software.md",
+                "file": "netsec/HackTheBox.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Arch/Software.md",
+                "file": "netsec/HackTheBox.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Arch/Software.md"
+                "file": "netsec/HackTheBox.md"
               }
             }
           }
@@ -171,44 +146,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "090a83ce6bbd94d3",
+  "active": "fdae7d27ced85207",
   "lastOpenFiles": [
-    "Arch/Alias.md",
+    "netsec/services/smbclient.md",
+    "netsec/HackTheBox.md",
+    "netsec/port.md",
+    "netsec/services/msrpc.md",
+    "netsec/services/smb.md",
+    "netsec/0/openvpn.md",
+    "netsec/services/telnet.md",
+    "netsec/0/cd.md",
+    "netsec/0/exit.md",
+    "netsec/0/get.md",
+    "netsec/0/ls.md",
+    "netsec/software",
     "Data/Obsidian.md",
     "Data/github.md",
-    "Data/Data.md",
+    "netsec/0/tcp.md",
+    "netsec/services/netbios-ssn.md",
+    "netsec/0/osi.md",
+    "netsec/0",
+    "netsec/services/FTP.md",
+    "netsec/scan/ping.md",
+    "netsec/scan/nmap.md",
+    "netsec/scan",
     "Arch/Software.md",
+    "netsec/attack/MitM.md",
+    "netsec/attack",
+    "netsec/ports.md",
+    "netsec/services",
+    "Arch/Alias.md",
+    "Data/Data.md",
     "Data/LVM.md",
     "Data/RAIDS.md",
-    "Data/recover data.md",
-    "Lost Ark/Raids.md",
     "Arch",
-    "AI/Setup.md",
-    "Aim/distro.md",
     "Aim",
-    "AI/orange.md",
-    "AI/openai.md",
-    "netsec/ports.md",
     "netsec",
     "Data",
     "AI",
-    "prova.md",
-    "Unreal Engine/Blueprint/change material.md",
-    "~/Documents/Obsidian/Terminal/medicina/templates/patologia sistematica.md",
-    "~/Documents/Obsidian/Terminal/medicina/templates/lista 3.md",
-    "~/Documents/Obsidian/Terminal/medicina/templates/lista 2.md",
-    "~/Documents/Obsidian/Terminal/medicina/templates",
-    "~/Documents/Obsidian/Terminal/medicina/statistica/mortalita.md",
-    "~/Documents/Obsidian/Terminal/medicina/statistica/morbilita.md",
-    "~/Documents/Obsidian/Terminal/medicina/statistica",
-    "~/Documents/Obsidian/Terminal/medicina/semeiotica/tumefazione pulsante.md",
-    "~/Documents/Obsidian/Terminal/medicina/semeiotica/sudorazione algida.md",
-    "~/Documents/Obsidian/Terminal/medicina/semeiotica/soffio succlavio.md",
-    "~/Documents/Obsidian/Terminal/medicina/semeiotica/soffio carotideo.md",
-    "~/Documents/Obsidian/Terminal/medicina/semeiotica/soffi sistolici.md",
-    "~/Documents/Obsidian/Terminal/medicina/semeiotica",
-    "~/Documents/Obsidian/Terminal/medicina/patologia/0",
-    "~/Documents/Obsidian/Terminal/medicina/patologia",
     "~/Documents/Obsidian/Terminal/medicina/100 files/Pasted image 20230207104650.png",
     "~/Documents/Obsidian/Terminal/medicina/100 files/Pasted image 20230207104525.png",
     "~/Documents/Obsidian/Terminal/medicina/100 files/Pasted image 20221021110844.png"
