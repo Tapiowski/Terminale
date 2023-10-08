@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1d8135616681dbb9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Arch/Software.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -147,15 +160,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cd5e2d6237d6b4b8",
+  "active": "1d8135616681dbb9",
   "lastOpenFiles": [
-    "Arch/0/systemctl.md",
+    "Arch/Pacman.md",
     "Arch/Software.md",
+    "Arch/awesome.md",
+    "Arch/Alias.md",
+    "Data/github.md",
+    "Data/Data.md",
+    "Arch/0/systemctl.md",
     "Arch/0/maim.md",
     "Arch/0",
     "netsec/attack/BFA.md",
-    "Arch/Pacman.md",
-    "Arch/Alias.md",
     "netsec/scan/nmap.md",
     "netsec/security.md",
     "netsec/attack/DOS.md",
@@ -173,9 +189,7 @@
     "netsec/0/ls.md",
     "netsec/software",
     "Data/Obsidian.md",
-    "Data/github.md",
     "netsec/0/tcp.md",
-    "netsec/services/netbios-ssn.md",
     "netsec/0",
     "netsec/scan",
     "netsec/attack",

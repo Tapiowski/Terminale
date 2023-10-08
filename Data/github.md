@@ -23,4 +23,3 @@ Host github_ssh_connection
 ```
 git clone git@github_ssh_connection:user/repo.git your-folder-name 
 ```
-funziona o no
