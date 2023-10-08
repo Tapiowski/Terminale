@@ -1,3 +1,7 @@
+## app
+inetutils
+smbclient
+nmap
 ## 1
 blob:https://app.hackthebox.com/cec4cf28-48fb-48fa-83d4-4ea2fd76c798
 sudo [[openvpn]] server.ovpn

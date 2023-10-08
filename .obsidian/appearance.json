@@ -3,5 +3,7 @@
   "enabledCssSnippets": [
     "fonts"
   ],
-  "cssTheme": "mri"
+  "cssTheme": "mri",
+  "interfaceFontFamily": "JetBrainsMono Nerd Font",
+  "textFontFamily": "JetBrainsMono Nerd Font"
 }

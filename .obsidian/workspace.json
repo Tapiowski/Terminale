@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fdae7d27ced85207",
+            "id": "cd5e2d6237d6b4b8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "netsec/HackTheBox.md",
+                "file": "Arch/Software.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "e765685f29a973c7",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "netsec/HackTheBox.md",
+                "file": "Arch/Software.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "netsec/HackTheBox.md",
+                "file": "Arch/Software.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "netsec/HackTheBox.md"
+                "file": "Arch/Software.md"
               }
             }
           }
@@ -143,13 +143,25 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fdae7d27ced85207",
+  "active": "cd5e2d6237d6b4b8",
   "lastOpenFiles": [
-    "netsec/services/smbclient.md",
+    "Arch/0/systemctl.md",
+    "Arch/Software.md",
+    "Arch/0/maim.md",
+    "Arch/0",
+    "netsec/attack/BFA.md",
+    "Arch/Pacman.md",
+    "Arch/Alias.md",
+    "netsec/scan/nmap.md",
+    "netsec/security.md",
+    "netsec/attack/DOS.md",
+    "netsec/nftables.md",
     "netsec/HackTheBox.md",
+    "netsec/services/smbclient.md",
     "netsec/port.md",
     "netsec/services/msrpc.md",
     "netsec/services/smb.md",
@@ -164,26 +176,14 @@
     "Data/github.md",
     "netsec/0/tcp.md",
     "netsec/services/netbios-ssn.md",
-    "netsec/0/osi.md",
     "netsec/0",
-    "netsec/services/FTP.md",
-    "netsec/scan/ping.md",
-    "netsec/scan/nmap.md",
     "netsec/scan",
-    "Arch/Software.md",
-    "netsec/attack/MitM.md",
     "netsec/attack",
-    "netsec/ports.md",
     "netsec/services",
-    "Arch/Alias.md",
-    "Data/Data.md",
-    "Data/LVM.md",
-    "Data/RAIDS.md",
     "Arch",
     "Aim",
     "netsec",
     "Data",
-    "AI",
     "~/Documents/Obsidian/Terminal/medicina/100 files/Pasted image 20230207104650.png",
     "~/Documents/Obsidian/Terminal/medicina/100 files/Pasted image 20230207104525.png",
     "~/Documents/Obsidian/Terminal/medicina/100 files/Pasted image 20221021110844.png"
