@@ -26,7 +26,7 @@ grep stl /usr/share/fonts/local/fonts.dir
 fc-cache -vf
 fc-list
 fc-match NameOfFont -s
-
+?
 ## services
 [[systemctl]]
 
