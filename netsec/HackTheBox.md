@@ -38,3 +38,9 @@ smbclient \\\\10.129.127.92\\WorkShares
 [[get]]: downloading the contents of the directories within the share  
 [[exit]]: exiting the smb shel
 exfil 5f61c10dffbc77a704d76016a22f1664
+
+# 4';ll';';l
+database: Redis in-memory = primary memory = ram, sites first check if on memory then mysql, mongodb, dictionary format having key-value pairs. server: listen, cli database:
+redis-cli: pacman -S nodejs npm: Node.js, npm install -g redis-cli
+## Enumeration
+ping, nmap -p- -sV: 6379/tcp open  redis   Redis key-value store 5.0.7
