@@ -22,5 +22,13 @@
       ],
       "key": "S"
     }
+  ],
+  "file-explorer:move-file": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": " "
+    }
   ]
 }

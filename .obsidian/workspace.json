@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "netsec/HackTheBox.md",
+                "file": "Arch/Alias.md",
                 "mode": "source",
                 "source": false
               }
@@ -45,6 +45,20 @@
           }
         ],
         "currentTab": 2
+      },
+      {
+        "id": "0d7f78af7c276a54",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "187f786c38ed3f30",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "netsec/HackTheBox.md",
+                "file": "Arch/Alias.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "netsec/HackTheBox.md",
+                "file": "Arch/Alias.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "netsec/HackTheBox.md"
+                "file": "Arch/Alias.md"
               }
             }
           }
@@ -174,6 +188,12 @@
   },
   "active": "fd8f03c985efa071",
   "lastOpenFiles": [
+    "Arch/Software.md",
+    "Arch/Pacman.md",
+    "netsec/HackTheBox.md",
+    "ciao/Untitled.md",
+    "ciao",
+    "Untitled 1.md",
     "netsec/nftables.md",
     "netsec/port.md",
     "netsec/security.md",
@@ -182,10 +202,7 @@
     "netsec/attack/MitM.md",
     "Arch/Colors.md",
     "Arch/awesome.md",
-    "netsec/HackTheBox.md",
     "Arch/Alias.md",
-    "Arch/Pacman.md",
-    "Arch/Software.md",
     "Data/github.md",
     "Data/Data.md",
     "Arch/0/systemctl.md",
@@ -198,9 +215,6 @@
     "netsec/0/openvpn.md",
     "netsec/services/telnet.md",
     "netsec/0/cd.md",
-    "netsec/0/exit.md",
-    "netsec/0/get.md",
-    "netsec/0/ls.md",
     "netsec/software",
     "netsec/0",
     "netsec/scan",
@@ -209,7 +223,6 @@
     "Arch",
     "Aim",
     "netsec",
-    "Data",
     "~/Documents/Obsidian/Terminal/medicina/100 files/Pasted image 20230207104650.png",
     "~/Documents/Obsidian/Terminal/medicina/100 files/Pasted image 20230207104525.png",
     "~/Documents/Obsidian/Terminal/medicina/100 files/Pasted image 20221021110844.png"
