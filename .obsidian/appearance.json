@@ -1,9 +1,7 @@
 {
-  "accentColor": "#4394c7",
-  "enabledCssSnippets": [
-    "fonts"
-  ],
-  "cssTheme": "mri",
-  "interfaceFontFamily": "JetBrainsMono Nerd Font",
-  "textFontFamily": "JetBrainsMono Nerd Font"
+  "accentColor": "#d4d232",
+  "enabledCssSnippets": [],
+  "cssTheme": "green",
+  "interfaceFontFamily": "Fantasque Sans Mono",
+  "textFontFamily": "Fantasque Sans Mono"
 }

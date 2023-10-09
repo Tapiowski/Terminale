@@ -1,0 +1,62 @@
+body {
+	--radius-s: 0px;
+	--radius-m: 0px;
+	--radius-l: 0px;
+	--input-radius: 0px;
+	--tab-radius-active: 0px;
+	--checkbox-radius: 0px;
+	--toggle-radius: 0px;
+	--toggle-thumb-radius: 0px;
+	--slider-thumb-radius: 0px;
+	--font-text-theme: "Fantasque Sans Mono";
+	--text-normal: #D8D8D8;
+	--text-faint: #d75f5f;
+	--text-muted: #D8D8D8;
+	--text-highlight-bg: #d75f5f;
+	--tab-background-active: #000000;
+	--tab-container-background: #000000;
+	--tab-outline-color: #000000;
+	--titlebar-background-focused: #000000;
+	--titlebar-background: #000000;
+	--h1-color: #8fee96;
+	--h2-color: #8fee96;
+	--h3-color: #8fee96;
+	--h4-color: #8fee96;
+	--code-background: #2f2f2f;
+	--text-on-accent-inverted: #d75f5f;
+	--color-base-30: #d75f5f;
+	--color-base-40: #d75f5f;
+	--text-selection: #000000;
+	--text-on-accent: #000000;
+    --text-on-accent-inverted: #000000;
+	--interactive-accent: #d75f5f;
+}
+
+.workspace-tab-header.is-active::before, .workspace-tab-header.is-active::after {
+	display: none;
+}
+
+svg * {
+	stroke-linecap: square;
+	stroke-linejoin: miter;
+	rx: 0;
+	ry: 0;
+}
+
+.menu {
+	padding: var(--size-2-1);
+}
+
+.menu-item {
+	padding: var(--size-4-1) var(--size-4-2);
+}
+bs
+
+.menu-separator {
+	margin: var(--size-2-1) calc(var(--size-2-1) * -1);
+}
+
+.theme-dark {
+  --background-primary: #000000;
+  --background-secondary: #000000;
+}

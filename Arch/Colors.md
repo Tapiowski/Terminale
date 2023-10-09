@@ -1,0 +1,27 @@
+- # green yellow enjoyer
+	- ## black
+		- 2f2f2f
+		- 656565 
+	 - red
+		- d75f5f
+		- d75f5f
+	- green
+		- d4d232 < yellow
+		- 8fee96 < green
+	- yellow
+		- af865a
+		- cd950c
+	- blue
+		- 22c3a1
+		- 22c3a1
+	- magenta
+		- 775759
+		- 775759
+	- cyan
+		- 84edb9
+		- 84edb9
+	- white
+		- c0b18b
+		- d8d8d8
+- # mri
+	- 

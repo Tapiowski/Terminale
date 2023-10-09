@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fd8f03c985efa071",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "netsec/HackTheBox.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Arch/Software.md",
+                "file": "netsec/HackTheBox.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Arch/Software.md",
+                "file": "netsec/HackTheBox.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Arch/Software.md"
+                "file": "netsec/HackTheBox.md"
               }
             }
           }
@@ -160,25 +172,27 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1d8135616681dbb9",
+  "active": "fd8f03c985efa071",
   "lastOpenFiles": [
+    "netsec/nftables.md",
+    "netsec/port.md",
+    "netsec/security.md",
+    "netsec/attack/BFA.md",
+    "netsec/attack/DOS.md",
+    "netsec/attack/MitM.md",
+    "Arch/Colors.md",
+    "Arch/awesome.md",
+    "netsec/HackTheBox.md",
+    "Arch/Alias.md",
     "Arch/Pacman.md",
     "Arch/Software.md",
-    "Arch/awesome.md",
-    "Arch/Alias.md",
     "Data/github.md",
     "Data/Data.md",
     "Arch/0/systemctl.md",
     "Arch/0/maim.md",
     "Arch/0",
-    "netsec/attack/BFA.md",
     "netsec/scan/nmap.md",
-    "netsec/security.md",
-    "netsec/attack/DOS.md",
-    "netsec/nftables.md",
-    "netsec/HackTheBox.md",
     "netsec/services/smbclient.md",
-    "netsec/port.md",
     "netsec/services/msrpc.md",
     "netsec/services/smb.md",
     "netsec/0/openvpn.md",
@@ -188,8 +202,6 @@
     "netsec/0/get.md",
     "netsec/0/ls.md",
     "netsec/software",
-    "Data/Obsidian.md",
-    "netsec/0/tcp.md",
     "netsec/0",
     "netsec/scan",
     "netsec/attack",

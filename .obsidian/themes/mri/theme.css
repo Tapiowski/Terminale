@@ -8,7 +8,7 @@ body {
 	--toggle-radius: 0px;
 	--toggle-thumb-radius: 0px;
 	--slider-thumb-radius: 0px;
-	--font-text-theme: "JetBrainsMono Nerd Font";
+	--font-text-theme: "JetBrainsMono NF";
 	--text-normal: #59A8D9;
 	--text-faint: #193B59;
 	--text-muted: #2E6EA6;
@@ -17,6 +17,10 @@ body {
 	--tab-container-background: #0D0D0D;
 	--tab-outline-color: #0D0D0D;
 	--titlebar-background-focused: #0D0D0D;
+	--h1-color: #C4DDF2;
+	--h2-color: #C4DDF2;
+	--h3-color: #C4DDF2;
+	--h4-color: #C4DDF2;
 }
 
 .workspace-tab-header.is-active::before, .workspace-tab-header.is-active::after {
