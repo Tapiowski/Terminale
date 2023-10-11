@@ -21,6 +21,7 @@ locate - find
 nftables OR etables?
 [[maim]] - screenshot
 cbonsai, fortune cowsay
+p7zip
 ## font
 grep stl /usr/share/fonts/local/fonts.dir
 fc-cache -vf
@@ -38,3 +39,5 @@ https://www.blackarch.org/downloads.html
 	root:blackarch
 	sudo dd bs=512M status=progress if=file.iso of=/dev/sdX
 	https://www.blackarch.org/blackarch-install.html
+grub-mkconfig -o /boot/grub/grub.cfg
+/etc/default/grub file that reads: GRUB_DISABLE_OS_PROBER=false. install os-prober
