@@ -41,3 +41,22 @@ https://www.blackarch.org/downloads.html
 	https://www.blackarch.org/blackarch-install.html
 grub-mkconfig -o /boot/grub/grub.cfg
 /etc/default/grub file that reads: GRUB_DISABLE_OS_PROBER=false. install os-prober
+`sudo grub-probe -t fs_uuid -d /dev/sda1`
+`/etc/grub.d/40_custom` followed by `sudo update-grub`
+```
+menuentry "Windows 10" {
+insmod part_gpt
+insmod fat
+insmod search_fs_uuid
+insmod chain
+search --fs-uuid --no-floppy --set=root XXXXXXXXX
+chainloader (${root})/efi/Microsoft/Boot/bootmgfw.efi
+}
+```
+Normally `grub-mkconfig` should auto-detect dual booted operating systems (via the `os-prober` utility)
+```
+$ mkdir -p /mnt/windows
+$ mount /dev/sda1 /mnt/windows
+$ grub-mkconfig -o /boot/grub/grub.cfg
+```
+https://kb.adamsdesk.com/operating_system/create_a_bootable_windows_10_usb_using_linux/
